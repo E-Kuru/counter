@@ -1,0 +1,26 @@
+button{
+    width: 75px;
+    border-radius: 35px;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    -ms-border-radius: 35px;
+    -o-border-radius: 35px;
+    margin-left: 2%;
+    color: white;
+}
+
+.less{
+    background-color: rgb(219, 9, 9);
+}
+
+.incre{
+    background-color: rgb(0, 131, 44);
+}
+
+h1{
+    margin-left: 4%;
+}
+
+h2{
+    margin-left: 8%;
+}
